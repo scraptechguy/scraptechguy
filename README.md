@@ -14,4 +14,4 @@ _________________________________________________________________
 
 + like 98 % Swift in private repoooos
 
-[![Swift logo image](https://www.sic-sales.de/wp-content/uploads/2016/04/Swift_logo.svg.png)
+[![Swift logo image](https://www.sic-sales.de/wp-content/uploads/2016/04/Swift_logo.svg.png&size=10,10)

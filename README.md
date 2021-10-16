@@ -1,6 +1,6 @@
 ### Hello there 👋, I'm Rosťa
 
-If I ain't active here, I'm either reading, doing physics, exercising, or being a waste man.
+If I ain't active here, I'm either reading, doing engineering, exercising, or being a waste man.
 
 _________________________________________________________________
 

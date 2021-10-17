@@ -6,11 +6,11 @@ _________________________________________________________________
 
 # Quick overview
 
-[![Scraptechguy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=scraptechguy&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Scraptechguy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=scraptechguy&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 # There's what I like to code in
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scraptechguy&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scraptechguy&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 + like 98 % Swift in private repoooos
 

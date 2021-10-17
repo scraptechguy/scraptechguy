@@ -6,7 +6,7 @@ _________________________________________________________________
 
 # Quick overview
 
-[![Scraptechguy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=scraptechguy&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Scraptechguy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=scraptechguy&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 # There's what I like to code in
 

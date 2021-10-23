@@ -1,6 +1,8 @@
-# Hello there 👋, I'm Rosťa
+# Hello there 👋
 
-If I ain't active here, I'm either reading, doing engineering, exercising, or being a waste man.
+(General Kenobi) 
+
+I'm Rosťa and if I ain't active here, I'm either reading, doing engineering, exercising, or being a waste man.
 
 # Quick overview
 

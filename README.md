@@ -38,6 +38,7 @@ Learn more ->
 
 ### Deep Learning 
 
++ Deep Learning 101 (<a href="https://www.credly.com/badges/176887aa-3c12-4233-ace3-79aa893feff6/public_url" target="_blank">IBM Certified</a>)
 + Accelerated Deep Learning with GPU (<a href="https://www.credly.com/badges/b2b3b913-5173-46af-9f94-79cee7f9c9d0/public_url" target="_blank">IBM Certified</a>)
   
 ### English C2 (<a href="https://www.efset.org/cert/px7Tc3" target="_blank">EFSET Certified</a>)

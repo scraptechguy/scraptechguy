@@ -30,7 +30,7 @@ Learn more ->
   
 ### Swift 
 
-+ Currently using Swift to code <a href="https://github.com/daft-ware/Stray" target="_blank">Stray!</a> & more!
++ Currently using Swift to code <a href="https://github.com/daft-ware/Stray" target="_blank">Stray!</a> & more
   
 ### C++ 
   

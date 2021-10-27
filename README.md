@@ -25,6 +25,10 @@ I'm Rosťa, if I ain't active here, I'm either reading, doing engineering, exerc
 + Python for Data Science (<a href="https://www.credly.com/badges/98fb8baf-74db-4cd4-bc0b-1006420be2f7/public_url" target="_blank">IBM Certified</a>)
 + Applied Data Science with Python (<a href="https://www.credly.com/badges/58e516c3-707a-4249-9f65-d64ae6a18cf0/public_url" target="_blank">IBM Certified</a>)
 
+### Deep Learning ()
+
++ Accelerated Deep Learning with GPU (<a href="https://www.credly.com/badges/b2b3b913-5173-46af-9f94-79cee7f9c9d0/public_url" target="_blank">IBM Certified</a>)
+
 ## There's what I like to code in!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scraptechguy&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

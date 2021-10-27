@@ -34,7 +34,7 @@ Learn more ->
   
 ### C++ 
   
-+ Currently learning C++ using Unreal Engine
++ Currently learning C++ with Unreal Engine
 
 ### Deep Learning 
 

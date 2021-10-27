@@ -33,6 +33,8 @@ Learn more ->
 + Currently using Swift to code <a href="https://github.com/daft-ware/Stray" target="_blank">Stray!</a> & more!
   
 ### C++ 
+  
++ Currently learning C++ using Unreal Engine
 
 ### Deep Learning 
 

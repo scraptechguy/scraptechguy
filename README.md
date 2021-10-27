@@ -41,6 +41,8 @@ Learn more ->
 + Accelerated Deep Learning with GPU (<a href="https://www.credly.com/badges/b2b3b913-5173-46af-9f94-79cee7f9c9d0/public_url" target="_blank">IBM Certified</a>)
   
 ### English C2 (<a href="https://www.efset.org/cert/px7Tc3" target="_blank">EFSET Certified</a>)
+  
++ Currently using English to do everything!
 
 ### Microsoft 365
 

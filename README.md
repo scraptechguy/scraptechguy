@@ -44,14 +44,18 @@ Learn more ->
   
 + Currently learning C++ with Unreal Engine
   
-### English C2 (<a href="https://www.efset.org/cert/px7Tc3" target="_blank">EFSET Certified</a>)
-  
-+ Currently using English to do everything!
-
 ### Microsoft 365
 
 + Microsoft Excel (<a href="https://www.credly.com/badges/129a96db-fb85-4c62-9d31-50107f77bdd3/public_url" target="_blank">Microsoft Office Specialist</a>)
 
+### English C2 (<a href="https://www.efset.org/cert/px7Tc3" target="_blank">EFSET Certified</a>)
+  
++ Currently using English to do everything!
+  
+### Marketing 
+  
++ Fundamentals of Digital Marketing (<a href="https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing" target="_blank">Google Certified</a>)
+  
 ## There's what I like to code in!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scraptechguy&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

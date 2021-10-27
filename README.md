@@ -10,7 +10,7 @@ I'm Rosťa, if I ain't active here, I'm either reading, doing engineering, exerc
 
 ### There's what I enjoy doing!
 
-+ English
++ English C2 (<a href="https://www.efset.org/cert/px7Tc3" target="_blank">EFSET Certified </a>)
 
 ### There's what I like to code in!
 

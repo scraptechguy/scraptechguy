@@ -29,6 +29,8 @@ Learn more ->
 + Applied Data Science with Python (<a href="https://www.credly.com/badges/58e516c3-707a-4249-9f65-d64ae6a18cf0/public_url" target="_blank">IBM Certified</a>)
   
 ### Swift 
+
++ Currently using Swift to code <a href="https://github.com/daft-ware/Stray" target="_blank">Stray!</a> & more!
   
 ### C++ 
 

@@ -15,9 +15,11 @@ I'm Rosťa, if I ain't active here, I'm either reading, doing engineering, exerc
 Learn more -> 
 </summary>
 
-### Artificial Inteligence   
-  
+### Artificial Inteligence & Deep Learning
+
 + Azure AI Fundamentals (<a href="https://www.credly.com/badges/f09deb85-8218-44d3-a41c-53d19cca31e3/public_url" target="_blank">Microsoft Certified</a>)
++ Deep Learning 101 (<a href="https://www.credly.com/badges/176887aa-3c12-4233-ace3-79aa893feff6/public_url" target="_blank">IBM Certified</a>)
++ Accelerated Deep Learning with GPU (<a href="https://www.credly.com/badges/b2b3b913-5173-46af-9f94-79cee7f9c9d0/public_url" target="_blank">IBM Certified</a>)
   
 ### Microsoft Azure (<a href="https://www.credly.com/badges/8f32078d-eb4e-4e2f-9fbb-58b1781f4850/public_url" target="_blank">Microsoft Certified</a>)
 
@@ -38,11 +40,6 @@ Learn more ->
 ### C++ 
   
 + Currently learning C++ with Unreal Engine
-
-### Deep Learning 
-
-+ Deep Learning 101 (<a href="https://www.credly.com/badges/176887aa-3c12-4233-ace3-79aa893feff6/public_url" target="_blank">IBM Certified</a>)
-+ Accelerated Deep Learning with GPU (<a href="https://www.credly.com/badges/b2b3b913-5173-46af-9f94-79cee7f9c9d0/public_url" target="_blank">IBM Certified</a>)
   
 ### English C2 (<a href="https://www.efset.org/cert/px7Tc3" target="_blank">EFSET Certified</a>)
   

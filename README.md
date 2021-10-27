@@ -29,6 +29,10 @@ I'm Rosťa, if I ain't active here, I'm either reading, doing engineering, exerc
 
 + Accelerated Deep Learning with GPU (<a href="https://www.credly.com/badges/b2b3b913-5173-46af-9f94-79cee7f9c9d0/public_url" target="_blank">IBM Certified</a>)
 
+### Microsoft 365
+
++ Microsoft Excel (<a href="https://www.credly.com/badges/129a96db-fb85-4c62-9d31-50107f77bdd3/public_url" target="_blank">Microsoft Office Specialist</a>)
+
 ## There's what I like to code in!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scraptechguy&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

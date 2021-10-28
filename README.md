@@ -28,6 +28,7 @@ Learn more ->
 
 + Security, Compliance, and Identity Fundamentals (<a href="https://www.credly.com/badges/1443df5e-df6d-477f-88f7-66d072e86e03/public_url" target="_blank">Microsoft Certified</a>)
 + Azure Data Fundamentals (<a href="https://www.credly.com/badges/b191f0d6-831e-4a5f-b264-01d137fe829d/public_url" target="_blank">Microsoft Certified</a>)
++ Azure Cognitive Services APIs
 
 ### Python (<a href="https://www.credly.com/badges/505d5446-7527-489c-a22c-c279d782c3d3/public_url" target="_blank">Microsoft Certified</a>)
 

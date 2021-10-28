@@ -35,7 +35,7 @@ Learn more ->
 + Data Visualization Using Python (<a href="https://www.credly.com/badges/e1220dcd-dcd3-4301-a453-9eda05a2d01b/public_url" target="_blank">IBM Certified</a>)
 + Python for Data Science (<a href="https://www.credly.com/badges/98fb8baf-74db-4cd4-bc0b-1006420be2f7/public_url" target="_blank">IBM Certified</a>)
 + Applied Data Science with Python (<a href="https://www.credly.com/badges/58e516c3-707a-4249-9f65-d64ae6a18cf0/public_url" target="_blank">IBM Certified</a>)
-+ Some of my favourite libraries are: Turtle, Kivy 2.0.0 and Azure Cognitive Services 
+- Some of my favourite libraries are: Turtle, Kivy 2.0.0 and Azure Cognitive Services 
   
 ### Swift 
 

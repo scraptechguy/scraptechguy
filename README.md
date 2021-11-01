@@ -1,6 +1,6 @@
 # Hello there 👋
 
-(General Kenobi<img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>) 
+(General Kenobi<img src="https://cultofthepartyparrot.com/parrots/moonwalkingparrot.gif" width="36" height="25"/>) 
 
 I'm Rosťa. If I ain't active here, I'm either reading, doing engineering, exercising, or being a waste man.
 

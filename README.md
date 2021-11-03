@@ -54,10 +54,23 @@ Learn more ->
 ### English C2 (<a href="https://www.efset.org/cert/px7Tc3" target="_blank">EFSET Certified</a>)
   
 + Currently using English to do everything!
-    
+
+</details>
+
+<details>
+<summary>
 ## Here's what I like to code in!
+</summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scraptechguy&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
     
 </details>
 
+<details>
+<summary>
+  ## Here's what I want to do!
+</summary>
+  
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Gateway to Mars <a href="https://t.co/cej13QdyJP">pic.twitter.com/cej13QdyJP</a></p>&mdash; SpaceX (@SpaceX) <a href="https://twitter.com/SpaceX/status/1452062147479883776?ref_src=twsrc%5Etfw">October 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  
+</details>

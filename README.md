@@ -8,13 +8,6 @@ I'm Rosťa. If I ain't active here, I'm either reading, doing engineering, exerc
 
 [![Scraptechguy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=scraptechguy&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
-# More info
-
-<details>
-<summary>
-  Learn more -> 
-</summary>
-
 ## Here's what I enjoy doing!
 
 <details>
@@ -62,28 +55,9 @@ Learn more ->
   
 + Currently using English to do everything!
 
-</details>
-
-## Here's what I like to code in!
-
-<details>
-<summary>
-Learn more -> 
-</summary>
+### Here's what I like to code in!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scraptechguy&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
     
 </details>
 
-## Here's what I want to do!
-
-<details>
-<summary>
-Learn more -> 
-</summary>
-  
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Gateway to Mars <a href="https://t.co/cej13QdyJP">pic.twitter.com/cej13QdyJP</a></p>&mdash; SpaceX (@SpaceX) <a href="https://twitter.com/SpaceX/status/1452062147479883776?ref_src=twsrc%5Etfw">October 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  
-</details>
-
-</details>

@@ -41,7 +41,7 @@ Learn more ->
   
 ### Swift 
 
-+ Currently using Swift to code <a href="https://github.com/daft-ware/Stray" target="_blank">Stray!</a> & more
++ Currently using Swift to code <a href="https://github.com/daft-ware/Stray" target="_blank">Stray!</a>, <a href="https://github.com/daft-ware/Shards" target="_blank">Shards!</a> & more
   
 ### C++ 
   

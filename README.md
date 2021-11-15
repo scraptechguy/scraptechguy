@@ -4,6 +4,8 @@
 
 I'm Rosťa. If I ain't active here, I'm either reading, doing engineering, exercising, singing Michael Jackson's songs, or being a waste man.
 
+~ Poking around iOS app development rn 
+
 # Quick overview
 
 [![Scraptechguy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=scraptechguy&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 

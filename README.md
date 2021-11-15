@@ -6,7 +6,7 @@ I'm Rosťa. If I ain't active here, I'm either reading, doing engineering, exerc
 
 # Quick overview
 
-[![Scraptechguy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=scraptechguy&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Scraptechguy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=scraptechguy&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## Here's what I enjoy doing!
 

@@ -19,19 +19,19 @@ Learn more ->
 
 ### Artificial Inteligence
 
-+ Azure AI Fundamentals (<a href="https://www.credly.com/badges/f09deb85-8218-44d3-a41c-53d19cca31e3/public_url" target="_blank">Microsoft Certified</a>)
++ Azure AI (<a href="https://www.credly.com/badges/f09deb85-8218-44d3-a41c-53d19cca31e3/public_url" target="_blank">Microsoft Certified</a>)
   
 ### Deep Learning
   
 + Deep Learning 101 (<a href="https://www.credly.com/badges/176887aa-3c12-4233-ace3-79aa893feff6/public_url" target="_blank">IBM Certified</a>)
-+ Accelerated Deep Learning with GPU (<a href="https://www.credly.com/badges/b2b3b913-5173-46af-9f94-79cee7f9c9d0/public_url" target="_blank">IBM Certified</a>)
++ Accelerated Deep Learning with GPUs (<a href="https://www.credly.com/badges/b2b3b913-5173-46af-9f94-79cee7f9c9d0/public_url" target="_blank">IBM Certified</a>)
 + Currently coding my own deep net!
   
 ### Microsoft Azure (<a href="https://www.credly.com/badges/8f32078d-eb4e-4e2f-9fbb-58b1781f4850/public_url" target="_blank">Microsoft Certified</a>)
 
-+ Security, Compliance, and Identity Fundamentals (<a href="https://www.credly.com/badges/1443df5e-df6d-477f-88f7-66d072e86e03/public_url" target="_blank">Microsoft Certified</a>)
-+ Azure Data Fundamentals (<a href="https://www.credly.com/badges/b191f0d6-831e-4a5f-b264-01d137fe829d/public_url" target="_blank">Microsoft Certified</a>)
-+ Azure Cognitive Services APIs (<a href="" target="_blank">SpeechCheck</a>)
++ Security, Compliance, and Identity (<a href="https://www.credly.com/badges/1443df5e-df6d-477f-88f7-66d072e86e03/public_url" target="_blank">Microsoft Certified</a>)
++ Azure Data (<a href="https://www.credly.com/badges/b191f0d6-831e-4a5f-b264-01d137fe829d/public_url" target="_blank">Microsoft Certified</a>)
++ Azure Cognitive Services APIs (<a href="https://github.com/scraptechguy/SpeechCheck" target="_blank">SpeechCheck</a>)
 
 ### Python (<a href="https://www.credly.com/badges/505d5446-7527-489c-a22c-c279d782c3d3/public_url" target="_blank">Microsoft Certified</a>)
 

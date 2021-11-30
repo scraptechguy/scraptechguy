@@ -31,14 +31,14 @@ Learn more ->
 
 + Security, Compliance, and Identity Fundamentals (<a href="https://www.credly.com/badges/1443df5e-df6d-477f-88f7-66d072e86e03/public_url" target="_blank">Microsoft Certified</a>)
 + Azure Data Fundamentals (<a href="https://www.credly.com/badges/b191f0d6-831e-4a5f-b264-01d137fe829d/public_url" target="_blank">Microsoft Certified</a>)
-+ Azure Cognitive Services APIs ()
++ Azure Cognitive Services APIs (<a href="" target="_blank">SpeechCheck</a>)
 
 ### Python (<a href="https://www.credly.com/badges/505d5446-7527-489c-a22c-c279d782c3d3/public_url" target="_blank">Microsoft Certified</a>)
 
-+ Data Analysis Using Python (<a href="https://www.credly.com/badges/893a168e-3ba2-4829-8b8b-107246b6e907/public_url" target="_blank">IBM Certified</a>)
-+ Data Visualization Using Python (<a href="https://www.credly.com/badges/e1220dcd-dcd3-4301-a453-9eda05a2d01b/public_url" target="_blank">IBM Certified</a>)
++ Data Analysis (<a href="https://www.credly.com/badges/893a168e-3ba2-4829-8b8b-107246b6e907/public_url" target="_blank">IBM Certified</a>)
++ Data Visualization (<a href="https://www.credly.com/badges/e1220dcd-dcd3-4301-a453-9eda05a2d01b/public_url" target="_blank">IBM Certified</a>)
 + Python for Data Science (<a href="https://www.credly.com/badges/98fb8baf-74db-4cd4-bc0b-1006420be2f7/public_url" target="_blank">IBM Certified</a>)
-+ Applied Data Science with Python (<a href="https://www.credly.com/badges/58e516c3-707a-4249-9f65-d64ae6a18cf0/public_url" target="_blank">IBM Certified</a>)
++ Applied Data Science (<a href="https://www.credly.com/badges/58e516c3-707a-4249-9f65-d64ae6a18cf0/public_url" target="_blank">IBM Certified</a>)
 - Some of my favourite libraries are: Turtle, Kivy 2.0.0, Matplotlib and TensorFlow 
   
 ### Swift 

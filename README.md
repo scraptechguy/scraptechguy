@@ -8,7 +8,7 @@ I'm Rosťa. If I ain't active here, I'm either reading, doing engineering, exerc
 
 [![Scraptechguy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=scraptechguy&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
 
-## Here's what I enjoy doing!
+## Here's what I do!
 
 <details>
 <summary>
@@ -18,6 +18,10 @@ Learn more ->
 ### Here's what I like to code in!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scraptechguy&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+    
+### Projects I'm most proud of 
+    
+vvv
     
 </details>
 

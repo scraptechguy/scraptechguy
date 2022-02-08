@@ -5,6 +5,7 @@
 <div align="center">
 <a href="https://twitter.com/rostislav_broz"> <img src="https://www.europanostra.org/wp-content/uploads/2017/09/2017-09-Twitter-logo.png" height="64"> </a>
 <a href="https://stackoverflow.com/users/14746777/scrap-tech-guy"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" height="64"> </a>
+<a href="https://outlook.live.com"> <p align="center">rostislav.broz@outlook.com</p> </a>
 </div>
 
 <h3>Here's what I do!</h3>

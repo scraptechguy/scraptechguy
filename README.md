@@ -12,6 +12,6 @@
 + 💻 I use daily: `.swift`, `.storyboard`, `.xcodeproj`, `.py`, `.ai`
 + Learning all about **Web3** and **blockchain**
   
-<h2>Quick overview</h2>
+<h3>Quick overview</h3>
 
 [![Scraptechguy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=scraptechguy&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)

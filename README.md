@@ -8,8 +8,9 @@
 </div>
 
 
-+ 💻 I'm currently working on **StuduWidgets** and **Watch!**
-+ 📱 I use daily: `.swift`, `.storyboard`, `.xcodeproj`, `.py`
++ 📱 I'm currently working on **StuduWidgets** and **Watch!**
++ 💻 I use daily: `.swift`, `.storyboard`, `.xcodeproj`, `.py`, `.ai`
++ Learning all about **Web3** and **blockchain**
   
 <h2>Quick overview</h2>
 

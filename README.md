@@ -1,27 +1,21 @@
-# Hello there 👋
+<h1 align="center">Hey 👋</h1>
 
-(General Kenobi) 
+<h3 align="center">Here's what I do!</h3>
 
-I'm Rosťa. If I ain't active here, I'm either reading, doing engineering, exercising, singing Michael Jackson's songs, or being a waste man.
+<a href="https://developer.apple.com/swift/"> <img src="https://qph.fs.quoracdn.net/main-qimg-fbace2c64a40052158f2095e1c653213" height="64"> </a>
+<a href="https://developer.apple.com/swift-playgrounds/"> <img src="https://developer.apple.com/assets/elements/icons/swift-playgrounds/swift-playgrounds-96x96_2x.png" height="64"> </a>
+<a href="https://developer.apple.com/xcode/swiftui/"> <img src="https://camo.githubusercontent.com/471c6ba43f0f163be29c1b5ae7ba46b4849cc2f075bc0a73b901af14b4524624/68747470733a2f2f646576656c6f7065722e6170706c652e636f6d2f6173736574732f656c656d656e74732f69636f6e732f737769667475692f737769667475692d39367839365f32782e706e67" height="64"> </a>
+<a href="https://www.apple.com/app-store/"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/App_Store_%28iOS%29.svg" height="64"> </a>
+<a href="https://appstoreconnect.apple.com/login"> <img src="https://developer.apple.com/assets/elements/icons/asc-outline/asc-outline-128x128_2x.png" height="64"> </a>
+<a href="https://developer.apple.com/xcode/"> <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/24/0e/2d/240e2d5d-6aef-cecd-fed8-05223333f8af/Xcode-85-220-0-4-2x.png/1200x630bb.png" height="64"> </a>
+<a href="https://testflight.apple.com"> <img src="https://developer.apple.com/assets/elements/icons/testflight/testflight-64x64_2x.png" height="64"> </a>
+<a href="https://azure.microsoft.com/en-us/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" height="64"> </a>
+<a href="https://www.python.org"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="64"> </a>
+<a href="https://www.tensorflow.org"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" height="64"> </a>
+<a href="https://tug.org"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/TeX_logo.svg/1200px-TeX_logo.svg.png" height="64"> </a>
+<a href="https://github.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" height="64"> </a>
+<a href="https://desktop.github.com"> <img src="https://cdn.jim-nielsen.com/macos/512/github-desktop-2021-05-20.png" height="64"> </a>
 
-# Quick overview
+## Quick overview
 
-[![Scraptechguy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=scraptechguy&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
-
-## Here's what I do!
-
-<details>
-<summary>
-Learn more -> 
-</summary>
-
-### Here's what I like to code in!
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scraptechguy&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-    
-### Projects I'm most proud of 
-    
-vvv
-    
-</details>
-
+[![Scraptechguy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=scraptechguy&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)

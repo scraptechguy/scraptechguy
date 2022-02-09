@@ -9,7 +9,7 @@
 
 
 + 📱 I'm currently working on **StuduWidgets** and **Watch!**
-+ 💻 I use daily: `.swift`, `.storyboard`, `.xcodeproj`, `.py`, `.ai`
++ 💻 I use daily: `.swift`, `.storyboard`, `.xcodeproj`, `.py`, `.ai`, `.tex`
 + 🎆 Learning all about **Web3** and **blockchain**
   
 <h3>Quick overview</h3>

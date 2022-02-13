@@ -12,6 +12,7 @@
 + 📱 I'm currently working on **StuduWidgets** and **Watch!**
 + 💻 I use daily: `.swift`, `.storyboard`, `.py`, `.ai`, `.tex`
 + 🎆 Learning all about **blockchain** and **crypto**
++ **Fun fact**: Your mom thinks I'm cool
   
 <h3>Quick overview</h3>
 

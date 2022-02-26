@@ -9,7 +9,7 @@
 </div>
 
 
-+ 📱 I'm currently working on <a href="https://github.com/filiptronicek/StuduWidgets">**StuduWidgets**</a> and <a href="https://github.com/scraptechguy/Cryp2p-ios">**Cryp2p**</a>
++ 📱 I'm currently working on <a href="https://github.com/filiptronicek/StuduWidgets">**StuduWidgets**</a>, <a href="https://github.com/scraptechguy/Cryp2p-ios">**Cryp2p**</a>, and <a href="https://github.com/scraptechguy/sbpy">**sbpy**</a>
 + 💻 I use daily: `.swift`, `.storyboard`, `.py`, `.ai`, `.tex`
 + 🎆 Learning all about **blockchain** and **crypto**
 + **Fun fact**: Your mom thinks I'm cool

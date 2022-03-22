@@ -15,4 +15,4 @@
   
 <h3>Quick overview</h3>
 
-[![Scraptechguy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=scraptechguy&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Scraptechguy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=scraptechguy&show_icons=true&theme=radical&include_all_commits=false&count_private=true)](https://github.com/anuraghazra/github-readme-stats)

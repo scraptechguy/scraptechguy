@@ -11,9 +11,9 @@
 
 + 📱 I'm currently working on <a href="https://github.com/scraptechguy/Peep">**Peep**</a>, <a href="https://github.com/scraptechguy/Cryp2p-ios">**Cryp2p**</a>, and <a href="https://github.com/scraptechguy/sbpy">**sbpy**</a>
 + 💻 I use daily: `.swift`, `.py`, `.r`, `.ai`, `.tex`
-+ 🎇 Learning all about **blockchain** and **crypto**
++ 🌉 Learning all about **blockchain** and **crypto**
   
 <h3>Quick overview</h3>
 
-[![Scraptechguy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=scraptechguy&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Scraptechguy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=scraptechguy&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 

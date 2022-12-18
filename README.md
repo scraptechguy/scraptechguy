@@ -17,7 +17,6 @@
 
 <a href="" target=”_blank”> <img src="https://user-images.githubusercontent.com/75474651/208315854-f06c120a-2f2b-491c-b3d7-8365d268ff2a.png" height="64"> </a>
 <a href="https://apps.apple.com/cz/app/klyk/id6443860176" target=”_blank”> <img src="https://user-images.githubusercontent.com/75474651/208315836-ff909c13-b0eb-46a9-abfb-86e5484703de.png" height="64"> </a>
-<a href="" target=”_blank”> <img src="https://user-images.githubusercontent.com/75474651/208315850-56227b28-c735-463e-aff8-6587537bc0ac.png" height="64"> </a>
 
 <h3>Quick overview</h3>
 

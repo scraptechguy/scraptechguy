@@ -15,7 +15,7 @@
 
 <h3>App Store releases</h3>
 
-<a href="" target=”_blank”> <img src="https://user-images.githubusercontent.com/75474651/208315854-f06c120a-2f2b-491c-b3d7-8365d268ff2a.png" height="64"> </a>
+<a href="https://apps.apple.com/us/app/p%C3%ADp/id6444575713" target=”_blank”> <img src="https://user-images.githubusercontent.com/75474651/208315854-f06c120a-2f2b-491c-b3d7-8365d268ff2a.png" height="64"> </a>
 <a href="https://apps.apple.com/cz/app/klyk/id6443860176" target=”_blank”> <img src="https://user-images.githubusercontent.com/75474651/208315836-ff909c13-b0eb-46a9-abfb-86e5484703de.png" height="64"> </a>
 
 <h3>Quick overview</h3>

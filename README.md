@@ -15,8 +15,10 @@
 
 <h3>App Store releases</h3>
 
-<a href="https://apps.apple.com/cz/app/klyk/id6443860176" target=”_blank”> <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/d8/04/46/d8044623-5ebe-f001-d449-9d4e560675dc/AppIcon-0-1x_U007emarketing-6-85-220.png/460x0w.webp" height="64"> </a>
-  
+<a href="" target=”_blank”> <img src="https://user-images.githubusercontent.com/75474651/208315854-f06c120a-2f2b-491c-b3d7-8365d268ff2a.png" height="64"> </a>
+<a href="https://apps.apple.com/cz/app/klyk/id6443860176" target=”_blank”> <img src="https://user-images.githubusercontent.com/75474651/208315836-ff909c13-b0eb-46a9-abfb-86e5484703de.png" height="64"> </a>
+<a href="" target=”_blank”> <img src="https://user-images.githubusercontent.com/75474651/208315850-56227b28-c735-463e-aff8-6587537bc0ac.png" height="64"> </a>
+
 <h3>Quick overview</h3>
 
 [![Scraptechguy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=scraptechguy&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)

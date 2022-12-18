@@ -30,7 +30,6 @@
 <a href="https://www.postgresql.org"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" height="49"> </a>
 <a href="https://desktop.github.com"> <img src="https://cdn.jim-nielsen.com/macos/512/github-desktop-2021-05-20.png" height="49"> </a>
 <a href="https://www.figma.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="49"> </a>
-<a href="https://tug.org"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/TeX_logo.svg/1200px-TeX_logo.svg.png" height="49"> </a>
 
 <h3>Quick overview</h3>
 

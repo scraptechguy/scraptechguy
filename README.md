@@ -12,6 +12,10 @@
 + 📱 I'm currently working on <a href="https://github.com/scraptechguy/Peep">**Peep**</a>, <a href="https://github.com/scraptechguy/Cryp2p-ios">**Cryp2p**</a>, and <a href="https://github.com/scraptechguy/sbpy">**sbpy**</a>
 + 💻 I use daily: `.swift`, `.py`, `.r`, `.ai`, `.tex`
 + 🎆 Learning all about **blockchain** and **crypto**
+
+<h3>App Store releases</h3>
+
+<a href="https://apps.apple.com/cz/app/klyk/id6443860176" target=”_blank”> <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/d8/04/46/d8044623-5ebe-f001-d449-9d4e560675dc/AppIcon-0-1x_U007emarketing-6-85-220.png/460x0w.webp" height="64"> </a>
   
 <h3>Quick overview</h3>
 

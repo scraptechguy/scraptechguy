@@ -1,10 +1,10 @@
 ![image 15](https://user-images.githubusercontent.com/75474651/212065322-61e8e0ee-2d88-434e-8c27-42d17a5a86a2.png)
 
-<h2><p align="center">Guy who loves engineering and developing iOS native apps</p></h2>
+<h2><p align="center">~ guy who loves engineering and developing iOS native apps</p></h2>
 
-+ 📱 I'm currently working on <a href="https://github.com/scraptechguy/Peep">**Peep**</a>, <a href="https://github.com/scraptechguy/Cryp2p-ios">**Cryp2p**</a>, and <a href="https://github.com/scraptechguy/sbpy">**sbpy**</a>
++ 📱 Currently working on <a href="https://github.com/scraptechguy/Peep">**Peep**</a>, <a href="https://github.com/scraptechguy/Rotty">**Rotty**</a>, and <a href="https://github.com/scraptechguy/sbpy">**sbpy**</a>
 + 💻 I use daily: `.swift`, `.py`, `.r`, `.ai`, `.tex`
-+ 🎇 Learning all about **blockchain** and **crypto**
++ 🎇 Learning all there is to know about **blockchain**
 + Find me on...
 
 <div align="center">

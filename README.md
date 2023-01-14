@@ -16,4 +16,4 @@
 
 <h3>Quick Overview</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scraptechguy&theme=codeSTACKr&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![scraptechguy's GitHub stats](https://github-readme-stats.vercel.app/api?username=scraptechguy&theme=codeSTACKr&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)

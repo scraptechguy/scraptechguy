@@ -13,3 +13,7 @@
   <a href="https://www.credly.com/users/scraptechguy/badges" target=”_blank”> <img src="https://images.credly.com/images/b685de69-03cf-402c-b8e3-62ecd0e2e949/blob.png" height="64"> </a>
   <a href="https://stackoverflow.com/users/14746777/scrap-tech-guy" target=”_blank”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" height="64"> </a>
 </div>
+
+<h3>Quick Overview</h3>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scraptechguy&theme=codeSTACKr&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)

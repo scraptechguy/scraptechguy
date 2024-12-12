@@ -1,6 +1,6 @@
 ![image 15](https://user-images.githubusercontent.com/75474651/212065322-61e8e0ee-2d88-434e-8c27-42d17a5a86a2.png)
 
-<h2><p align="center">~ I do iOS native apps</p></h2>
+<h2><p align="center">~ I do Python & iOS native apps</p></h2>
 
 + 📱 Currently working on <a href="https://github.com/scraptechguy/Peep">**Peep**</a>, <a href="https://github.com/scraptechguy/Rotty">**Rotty**</a>, and <a href="https://github.com/scraptechguy/sbpy">**sbpy**</a>
 + 💻 I use daily: `.swift`, `.py`, `.r`, `.ai`, `.tex`

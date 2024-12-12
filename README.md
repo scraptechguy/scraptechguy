@@ -10,7 +10,7 @@
 <div align="center">
   <a href="mailto:scraptechguy@gmail.com" target=”_blank”> <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpurepng.com%2Fpublic%2Fuploads%2Flarge%2Fpurepng.com-mail-iconsymbolsiconsapple-iosiosios-8-iconsios-8-721522596075clftr.png&f=1&nofb=1&ipt=a8c7450da6e38f74b2c6f825ad0836d2e67f3b3ef476195efbc4ca33cce947e5&ipo=images" height="64"> </a>
   <a href="https://twitter.com/scraptechguy" target=”_blank”> <img src="https://www.europanostra.org/wp-content/uploads/2017/09/2017-09-Twitter-logo.png" height="64"> </a>
-  <a href="https://www.credly.com/users/scraptechguy/badges" target=”_blank”> <img src="https://images.credly.com/images/b685de69-03cf-402c-b8e3-62ecd0e2e949/blob.png" height="64"> </a>
+  <a href="https://www.credly.com/users/scraptechguy/badges" target=”_blank”> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fresources.credly.com%2Fhs-fs%2Fhubfs%2FCredly_Logo_Orange_10-Inch.png%3Fwidth%3D3000%26name%3DCredly_Logo_Orange_10-Inch.png&f=1&nofb=1&ipt=12ab0f4a71c676f7e808970a56073e44a3a53f626b563eeef48e2b7e9b091927&ipo=images" height="64"> </a>
   <a href="https://stackoverflow.com/users/14746777/scrap-tech-guy" target=”_blank”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" height="64"> </a>
 </div>
 

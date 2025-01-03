@@ -2,9 +2,8 @@
 
 <h2><p align="center">~ I do Python & iOS native apps</p></h2>
 
-+ 📱 Currently working on <a href="https://github.com/scraptechguy/Peep">**Peep**</a>, <a href="https://github.com/scraptechguy/Rotty">**Rotty**</a>, and <a href="https://github.com/scraptechguy/sbpy">**sbpy**</a>
-+ 💻 I use daily: `.swift`, `.py`, `.r`, `.ai`, `.tex`
-+ 🎇 Learning all there is to know about **blockchain**
++ 📱 Currently working on <a href="https://github.com/scraptechguy/enkip">**enkip**</a> and <a href="https://github.com/scraptechguy/sbpy">**sbpy**</a>
++ 💻 I use daily: `.swift`, `.py`, `.raspi`, `.ai`, `.tex`
 + **Find me on...**
 
 <div align="center">

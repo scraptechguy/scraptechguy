@@ -1,8 +1,8 @@
 ![image 15](https://user-images.githubusercontent.com/75474651/212065322-61e8e0ee-2d88-434e-8c27-42d17a5a86a2.png)
 
-<h2><p align="center">~ I do Python & iOS native apps</p></h2>
+<h2><p align="center">~ Python & iOS Developer</p></h2>
 
-+ 📱 Currently working on <a href="https://github.com/scraptechguy/enkip">**enkip**</a> and <a href="https://github.com/scraptechguy/sbpy">**sbpy**</a>
++ 📱 Currently working on <a href="https://github.com/scraptechguy/Peep">**Peep**</a>, <a href="https://github.com/scraptechguy/enkip">**enkip**</a> and <a href="https://github.com/scraptechguy/DAMIT">**DAMIT**</a>
 + 💻 I use daily: `.swift`, `.py`, `.raspi`, `.ai`, `.tex`
 + **Find me on...**
 

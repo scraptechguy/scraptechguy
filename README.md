@@ -5,8 +5,8 @@
 ![UIKit](https://img.shields.io/badge/UIKit-%2320232a.svg?style=for-the-badge&logo=uikit&logoColor=468cea)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-%2320232a.svg?style=for-the-badge&logo=swift&logoColor=blue)
 ![Swift](https://img.shields.io/badge/Swift-%2320232a.svg?style=for-the-badge&logo=swift&logoColor=orange)
-![Python](https://img.shields.io/badge/Python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=yellow)
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-%2320232a.svg?style=for-the-badge&logo=raspberrypi&logoColor=red)
+![Python](https://img.shields.io/badge/Python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=yellow)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%2320232a.svg?style=for-the-badge&logo=latex&logoColor=green)
 
 
